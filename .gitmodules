@@ -1,3 +1,6 @@
 [submodule "LudiiPythonAI"]
 	path = LudiiPythonAI
 	url = git@github.com:Wicwik/LudiiPythonAI.git
+[submodule "jpy"]
+	path = jpy
+	url = https://github.com/jpy-consortium/jpy.git
