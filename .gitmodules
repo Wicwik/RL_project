@@ -1,0 +1,3 @@
+[submodule "LudiiPythonAI"]
+	path = LudiiPythonAI
+	url = git@github.com:Wicwik/LudiiPythonAI.git
